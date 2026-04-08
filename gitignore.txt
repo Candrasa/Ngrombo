@@ -1,0 +1,26 @@
+# Data besar - jangan diupload ke GitHub
+*.dfsu
+*.tif
+*.shp
+*.dbf
+*.shx
+*.prj
+*.log
+
+# Output folder
+FallbackSHP/
+GeoTiff/
+Output.gdb/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb
+
+# OS
+Thumbs.db
+.DS_Store
