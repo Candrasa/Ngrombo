@@ -1,5 +1,5 @@
-# DFSU Pipeline MIKE DHI → Shapefile & GeoTiff
-## Pipeline Konversi Data Oseanografi MIKE 21/3 FM ke Format Spasial
+# Konversi DFSU MIKE DHI → Shapefile & GeoTiff
+## Konversi Data Oseanografi MIKE 21/3 FM ke Format Spasial
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![MikeIO](https://img.shields.io/badge/MikeIO-2.0%2B-green)
